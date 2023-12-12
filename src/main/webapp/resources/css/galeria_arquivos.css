@@ -1,0 +1,16 @@
+/* Coloque aqui seu codigo CSS */
+[id^=Galeria_].fluig-style-guide .card .card-thumb {
+    display        : flex;
+    align-content  : center;
+    justify-content: center;
+}
+
+[id^=Galeria_].fluig-style-guide>.container-fluid {
+    display    : flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+}
+
+[id^=Galeria_].fluig-style-guide .alert {
+    width: 100%;
+}
